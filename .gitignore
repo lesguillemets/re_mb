@@ -1,0 +1,10 @@
+# haskell
+*.hi
+*.o
+dist
+.cabal-sandbox/
+cabal.sandbox.config
+
+# python
+__pycache__/
+*.py[cod]
