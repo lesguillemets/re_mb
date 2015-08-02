@@ -1,5 +1,5 @@
-set term svg size 800,600 font "ubuntu"
-set output "plot0.svg"
+set term png size 800,600 font "ubuntu"
+set output "plot0.png"
 set pm3d map
 set isosample 240,240
 p(x,y)=(x-1)/(2*x-1-x*y)
