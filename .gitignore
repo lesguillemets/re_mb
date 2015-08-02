@@ -8,3 +8,8 @@ cabal.sandbox.config
 # python
 __pycache__/
 *.py[cod]
+
+*.svg
+*.png
+*.jpeg
+*.jpg
